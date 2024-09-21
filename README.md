@@ -33,6 +33,5 @@
 2. ```docker run -p 80:80 --name chat-app chat-app``` to build & run the docker container
 3. For subsequent runs, don't run command 1 & 2, just run ```docker start chat-app```
 
-####  Then view your project running locally on: https://localhost:1729
 
 
