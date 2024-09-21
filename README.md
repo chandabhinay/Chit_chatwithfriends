@@ -29,9 +29,9 @@
 ```npm install && npm install --prefix client && npm run build --prefix client && npm start```
 
 #### You can also deploy this app using docker. Inside project's root directory issue below commands:
-1. ```docker build -t chat-app .``` to build docker image
-2. ```docker run -p 80:80 --name chat-app chat-app``` to build & run the docker container
-3. For subsequent runs, don't run command 1 & 2, just run ```docker start chat-app```
+1. ```docker build -t Chit_chatwithfriends .``` to build docker image
+2. ```docker run -p 80:80 --name Chit_chatwithfriends Chit_chatwithfriends``` to build & run the docker container
+3. For subsequent runs, don't run command 1 & 2, just run ```docker start Chit_chatwithfriends```
 
 
 
