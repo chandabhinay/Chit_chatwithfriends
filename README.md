@@ -1,3 +1,8 @@
+# Chanda Abhinay
+# IIT Mandi
+# Electrical Engineering
+# 3rd Year
+
 #### This is a realtime chat application intended to transfer messages in realtime without storing to any database.   
 * Backend Server: Node.js, Socket.io
 * Frontend: React
